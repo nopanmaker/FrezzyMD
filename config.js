@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/kahfi_maker'
-global.syt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
-global.sgh = 'https://github.com/Frezzy-XD'
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
-global.swa = 'wa.me/6285380166282'
+global.sig = 'https://instagram.com/khoirul36_'
+global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
+global.sgh = 'https://github.com/Carisendiri:v'
+global.sgc = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV'
+global.swa = 'wa.me/6287753812675'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282'
+global.pdana = '-'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
+global.psaweria = 'https://bit.ly/3eggcxd'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
-global.nameown = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.nomorbot = '-'
+global.nomorown = '6287753812675'
+global.namebot = 'RullBOT'
+global.nameown = 'KhrlMstfa'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', 'true']
+  ['6287753812675', 'Rull', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,14 +102,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓' //Main Watermark
-global.wm2 = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.wm3 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | ʙʏ ${global.nameown}`
-global.author = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓' 
-global.packname = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.wm = 'RullBOT | By KhrlMstfa' //Main Watermark
+global.wm2 = 'Khrl'
+global.wm3 = 'RullBOTV5 | By Rull'
+global.botdate = `⻝ Tanggal: ${week} ${date}\n⻝ Waktu: ${wktuwib}`
+global.bottime = `⻝ W A K T U : ${wktuwib}`
+global.titlebot = `RullBOT | ʙʏ ${global.nameown}`
+global.author = 'Khrl' 
+global.packname = 'By RullBOT'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'November 8 2022'
 
@@ -126,10 +126,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Maxxy BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.umurowner = '17'
-global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285380166282'
+global.nameowner = 'Rull✓'
+global.umurowner = '15'
+global.asalowner = 'Jatim, Trenggalek'
+global.nomorowner = 'wa.me/6287753812675'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
@@ -379,7 +379,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`
+global.stickauth = `Rullz✓`
 
 global.multiplier = 38 // The higher, The harder levelup
 
