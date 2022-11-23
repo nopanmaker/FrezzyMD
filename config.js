@@ -103,19 +103,19 @@ global.bear = 'VBkM7rbU'
 
 /*============== WATERMARK ==============*/
 global.wm = 'RullBOT | By KhrlMstfa' //Main Watermark
-global.wm2 = 'Khrl'
+global.wm2 = 'RullBOT'
 global.wm3 = 'RullBOTV5 | By Rull'
 global.botdate = `⻝ Tanggal: ${week} ${date}\n⻝ Waktu: ${wktuwib}`
 global.bottime = `⻝ W A K T U : ${wktuwib}`
 global.titlebot = `RullBOT | ʙʏ ${global.nameown}`
-global.author = 'Khrl' 
+global.author = 'KhrlMstfa' 
 global.packname = 'By RullBOT'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'November 8 2022'
+global.ultahowner = 'Oktober 22 2023' //Ganti Ultah Lu Disini
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c744e9d823ae3db3fd159.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/ca11f0593bc8b3eb1bfd9.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
 global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
@@ -123,7 +123,7 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Maxxy BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
+global.botintro = 'Hallo, Kenalin saya RullBOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *KhrlMstfa✓* Saya di rilis pada tanggal\n🗓 ️_23/11/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'Rull✓'
