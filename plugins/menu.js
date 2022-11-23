@@ -39,7 +39,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `┏━━━ꕥ〔 *llı INFO USER ıll* 〕ꕥ━⬣ 
-┃✾ *Name:* %name
+┃✾ *Nama:* %name
 ┃✾ *Tag:* %name
 ┃✾ *Status:* %prems
 ┃✾ *Limit:* %limit
@@ -49,13 +49,13 @@ const defaultMenu = {
 ┃✾ *Total Xp:* %totalexp
 ┗━ꕥ
 ┏━ꕥ〔 *llı TODAY ıll* 〕ꕥ━⬣
-┃✾ *Days:* %week %weton
-┃✾ *Date:* %date
+┃✾ *Hari:* %week %weton
+┃✾ *Tanggal:* %date
 ┃✾ *Jam:* ${wib2} WIB
-┃✾ *Islamic Date:* %dateIslamic
+┃✾ *Tanggal Islam:* %dateIslamic
 ┗━ꕥ
 ┏━ꕥ〔 *llı INFO ıll* 〕ꕥ━⬣
-┃✾ *Bot Name:* %me
+┃✾ *Nama Bot:* %me
 ┃✾ *Mode:* Public
 ┃✾ *Platform:* Linux
 ┃✾ *Type:* Node.Js
@@ -186,20 +186,20 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 `, text.trim(), flaa, [
       [`ꜱᴇᴡᴀʙᴏᴛ`, `${usedPrefix}sewa`],
       [`۪۪ᴀᴜᴛʜᴏʀ ʙᴏᴛ`, `${usedPrefix}owner`]
-    ], m, { 'document':{'url':'https://lynk.id/kahfi.xd'},
+    ], m, { 'document':{'url':'https://bit.ly/3eggcxd'},
 'mimetype':global.dpdf,
-'fileName':'「 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓ 」',
+'fileName':'「 RullBOT 」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'previewType':'pdf',
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://lynk.id/kahfi.xd',
+                        sourceUrl: 'https://bit.ly/3eggcxd',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`,
+                        description: `⚘ Kreator Khrl✓`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ by https://lynk.id/kahfi.xd`,          previewType: 0,
+                        body: `⚘ by khrl`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
-                        mediaUrl: 'https://lynk.id/kahfi.xd'
+                        mediaUrl: 'https://bit.ly/3eggcxd'
                         
                       }}
 })
