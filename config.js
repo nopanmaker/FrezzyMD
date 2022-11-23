@@ -111,12 +111,12 @@ global.titlebot = `RullBOT | ʙʏ ${global.nameown}`
 global.author = 'KhrlMstfa' 
 global.packname = 'By RullBOT'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Oktober 22 2023' //Ganti Ultah Lu Disini
+global.ultahowner = 'Oktober 21 2022' //Ganti Ultah Lu Disini
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/ca11f0593bc8b3eb1bfd9.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
+global.thumb = 'https://telegra.ph/file/8a1c663c84751c10baf65.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/8a1c663c84751c10baf65.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
 global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
