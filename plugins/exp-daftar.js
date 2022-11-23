@@ -17,15 +17,15 @@ let handler = async function (m, { text, usedPrefix, command }) {
     {
 	title: "🎀T U A",
 	rows: [
-	    {title: "☄️30• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.30 '},
+	    {title: "🎐30• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.30 '},
 	    {title: "⚡29• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.29 '},
-	    {title: "☄️28• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.28 '},
+	    {title: "🎐28• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.28 '},
 	{title: "⚡27• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.27 '},
-	{title: "☄️26• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.26 '},
+	{title: "🎐26• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.26 '},
 	{title: "⚡25• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.25 '},
-	{title: "☄️24• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.24 '},
+	{title: "🎐24• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.24 '},
 	{title: "⚡23• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.23 '},
-	{title: "☄️22• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.22 '},
+	{title: "🎐22• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.22 '},
 	{title: "⚡21• Tahun ʚĭɞ", rowId: '.daftar ' + namae + '.21 '}
 	]
     },
@@ -52,7 +52,7 @@ const listMessage = {
   text: `│›Please select your age at the bottom button...`,
   footer: `┗ *ʏᴏᴜʀ ɴᴀᴍᴇ:* ${conn.getName(m.sender)}\n<❔>  BOT PUBLIC\n⚘ Direcode Oleh KhrlMstfa ×፝֟͜×`,
   title: "▢━━━━「 Registration 」━━━━▢",
-  buttonText: "ഒ Register ഒ",
+  buttonText: "ഒ Registrasi ഒ",
   sections
 }
 
@@ -98,13 +98,13 @@ const listMessage = {
 'previewType':'pdf',
 'title':global.titlebot,
 'body':global.titlebot,
-'thumbnail':await(await fetch('https://telegra.ph/file/ca11f0593bc8b3eb1bfd9.jpg')).buffer(),
+'thumbnail':await(await fetch('https://telegra.ph/file/8a1c663c84751c10baf65.jpg')).buffer(),
 'sourceUrl':'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'}},
 'caption':cap,
 'footer':botdate,
 'buttons':[
 {'buttonId':'.menu','buttonText':{'displayText':'💬 MENU'},'type':1},
-{'buttonId':'.salken','buttonText':{'displayText':'🎈 SAPA HALLO'},'type':1}
+{'buttonId':'.donasi','buttonText':{'displayText':'🎈 DONASI'},'type':1}
 ],
 'headerType':6}
     await conn.sendMessage(m.chat,buttonMessage, { quoted:m})
