@@ -8,6 +8,7 @@ import fs from 'fs'
 const wib2 = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 let tags = {
   'main': 'Main',
+  'menfess': 'Menu Confess',
   'game': 'Game',
   'rpg': 'RPG Games',
   'xp': 'Exp & Limit',
